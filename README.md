@@ -1,1 +1,1 @@
-0x00-vagrant
+This file is mandatory in this project
